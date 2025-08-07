@@ -17,7 +17,7 @@
     "startup": ".\/minio.sh",
     "config": {
         "files": "{}",
-        "startup": "{\r\n    \"done\": \"guide\",\r\n    \"done\": \"Documentation:\"\r\n}",
+        "startup": "{\r\n    \"done\": \"guide\",\r\n    \"done\": \"Documentation:\",\r\n    \"done\": \"Docs:\"}",
         "logs": "{}",
         "stop": "^C"
     },
