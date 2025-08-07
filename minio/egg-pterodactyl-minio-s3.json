@@ -17,7 +17,7 @@
     "config": {
         "files": "{}",
         "logs": "{}",
-        "startup": "{\r\n    \"done\": \"guide\",\r\n    \"done\": \"Documentation:\",\r\n    \"done\": \"Docs:\"}",
+        "startup": "{\r\n    \"done\": \"guide\",\r\n    \"done\": \"Documentation:\",\r\n    \"done\": \"Docs:\"\r\n}",
         "stop": "^C"
     },
     "scripts": {
